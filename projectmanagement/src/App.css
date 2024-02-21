@@ -1,0 +1,31 @@
+App {
+  text-align: center;
+  margin: 20px;
+  }
+h1 {
+  color: #007bff;
+  }
+form {
+  margin-bottom: 20px;
+  }
+button {
+  margin-top: 10px;
+  }
+ul {
+  list-style-type: none;
+  padding: 0;
+  }
+li {
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f0f0f0;
+  padding: 5px;
+  cursor: pointer;
+  }
+.completed {
+  background-color: #b3ffb3;
+  }
+.in-progress {
+  background-color: #ffffb3;
+  }
